@@ -1,0 +1,50 @@
+---
+title: "Machine Learning Debt"
+subtitle: "Journal Club"
+author: "David Dai"
+date: "2019/03/07"
+output:
+  xaringan::moon_reader:
+    # css: [default, default-fonts]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      titleSlideClass: ["bottom", "left", "my-title"]
+      countIncrementalSlides: false
+
+---
+
+
+
+# .center["Real world software engineers are often faced with the challenge of moving quickly to ship new products or services, which can lead to a dilemma between *speed of execution* and *quality of engineering*."]
+
+---
+
+# Technical Debt
+
+## Cost of the "speed vs. quality" tradeoff
+
+
+
+---
+
+# Complexities in machine learning systems
+
+---
+
+# System dependencies
+
+---
+
+# Data dependencies
+
+---
+
+# Real-world dependencies
+
+---
+
+# Monitoring and testing of systems
+
+---
+
